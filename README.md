@@ -48,3 +48,28 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongo-db" width="35" height="35">
   </p>
 <hr>
+
+ ## 📍 01. HTML and CSS
+ - 📦 [Repository](https://github.com/IgorKostoski/-Web_Development_Bootcamp/tree/main/01.%20HTML%20and%20CSS)
+ - 🖥 [Site](https://mysmallcsspage.netlify.app/)
+
+## 📍 02. Bootstrap
+- 📦 [Repository](https://github.com/IgorKostoski/-Web_Development_Bootcamp/tree/main/02.%20Bootstrap)
+- 🖥 [Site](tindogpage.netlify.app)
+
+## 📍 03-04. JavaScript: The Dice Game
+- 📦 [Repository](https://github.com/IgorKostoski/-Web_Development_Bootcamp/tree/main/05.%20The%20Dicee%20Game)
+ - 🖥 [Site](rollthedicegamepage.netlify.app)
+
+## 📍 03-04. Online Drum Kit
+- 📦 [Repository](https://github.com/IgorKostoski/-Web_Development_Bootcamp/tree/main/06.%20Drum%20Kit)
+- 🖥 [Site](kickdrums.netlify.app)
+
+
+## 📍 08. Simon Game with jQuery 
+
+- 📦 [Repository](https://github.com/IgorKostoski/-Web_Development_Bootcamp/tree/main/08.%20Simon%20Game%20with%20jQuery)
+- 🖥 [Site](https://simonsgamejquery.netlify.app/)
+
+
+
