@@ -55,15 +55,15 @@
 
 ## 📍 02. Bootstrap
 - 📦 [Repository](https://github.com/IgorKostoski/-Web_Development_Bootcamp/tree/main/02.%20Bootstrap)
-- 🖥 [Site](tindogpage.netlify.app)
+- 🖥 [Site](https://tindogpage.netlify.app)
 
 ## 📍 03-04. JavaScript: The Dice Game
 - 📦 [Repository](https://github.com/IgorKostoski/-Web_Development_Bootcamp/tree/main/05.%20The%20Dicee%20Game)
- - 🖥 [Site](rollthedicegamepage.netlify.app)
+ - 🖥 [Site](https://rollthedicegamepage.netlify.app)
 
 ## 📍 03-04. Online Drum Kit
 - 📦 [Repository](https://github.com/IgorKostoski/-Web_Development_Bootcamp/tree/main/06.%20Drum%20Kit)
-- 🖥 [Site](kickdrums.netlify.app)
+- 🖥 [Site](https://kickdrums.netlify.app)
 
 
 ## 📍 08. Simon Game with jQuery 
