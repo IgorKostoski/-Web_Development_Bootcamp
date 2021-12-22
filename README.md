@@ -22,12 +22,12 @@ Content:
 - REST
 - APIs
 - Databases
+-- Deployment with GitHub Pages, Heroku and MongoDB Atlas
 - SQL
 - MongoDB
 - Mongoose
-- Authentication
 - Firebase
-- React.js
 - React Hooks
 - Web Design
-- Deployment with GitHub Pages, Heroku and MongoDB Atlas
+- Authentication
+- React.js
