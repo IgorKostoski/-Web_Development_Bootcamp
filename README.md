@@ -1,10 +1,14 @@
+ <img align="center" src="https://i.imgur.com/szNEUar.gif">
+
+
+
 "The Complete Web Development Bootcamp"  
 
 * Instructor: Angela Yu, lead instructor at the London App Brewery  
 * Platform: Udemy  
 
+ <h4 align="center">👨‍💻 Content:</h4>
 
-Content:
 - Front-End Web Development
 - HTML 5
 - CSS 3
